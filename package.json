@@ -1,0 +1,16 @@
+{
+  "name": "generatore-di-nomi-per-file-da-descrizione-in-italiano-con-regole-utente-8265bbdb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "jsdom": "^29.1.1"
+  }
+}
